@@ -1,4 +1,6 @@
-import Head from 'next/head'
+import Head from 'next/head';
+import Link from 'next/link';
+import Blog from '../components/blog';
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -13,6 +15,21 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.center}>
           Hello, world
+        </div>
+
+        <div>
+          <div>Projects</div>
+          <ul>
+            <li>
+              <Link href="/projects/meo">Meo</Link>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <div>Software Development Blog</div>
+
+          <Blog />
         </div>
       </main>
     </>
