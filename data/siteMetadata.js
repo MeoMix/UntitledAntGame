@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'UntitledAntGameBlog',
   description: 'An indie game software development blog',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://untitledantgame.com',
   siteRepo: 'https://github.com/MeoMix/UntitledAntGame',
   siteLogo: '/static/images/logo.png',
