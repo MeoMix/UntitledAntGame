@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Untitled Ant Game Blog',
   author: 'Sean Anderson',
   headerTitle: 'UntitledAntGameBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'An indie game software development blog',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://untitledantgame.com',

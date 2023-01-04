@@ -266,22 +266,6 @@ const authorDetails = await getFileBySlug('authors', ['default'])
 
 This is rendered in the `AuthorLayout` template.
 
-### Multiple authors in blog post
-
-The frontmatter of a blog post accepts an optional `authors` array field. If no field is specified, it is assumed that the default author is used. Simply pass in an array of authors to render multiple authors associated with a post.
-
-For example, the following frontmatter will display the authors given by `data/authors/default.md` and `data/authors/sparrowhawk.md`
-
-```yaml
-title: 'My first post'
-date: '2021-01-12'
-draft: false
-summary: 'My first post'
-authors: ['default', 'sparrowhawk']
-```
-
-A demo of a multiple authors post is shown in [Introducing Tailwind Nextjs Starter Blog post](/blog/introducing-tailwind-nextjs-starter-blog).
-
 ## Copy button for code blocks
 
 Hover over a code block and you will notice a GitHub-inspired copy button! You can modify `./components/Pre.js` to further customise it.
