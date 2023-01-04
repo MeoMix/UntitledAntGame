@@ -28,28 +28,47 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
             What's All This?
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Untitled Ant Game is a futuristic take on Tamagotchi which promotes a symbiotic relationship between owner and pet. It's an indie, web-based game which began development on January 01, 2023.
+            Untitled Ant Game is a futuristic take on Tamagotchi which promotes a symbiotic
+            relationship between owner and pet. It's an indie, web-based game which began
+            development on January 01, 2023.
             <br />
             <br />
             ...
             <br />
             <br />
-            An alien world was being terraformed by an Earth-owned satellite, but the project was disrupted by a freak, celestial event. You awaken to find yourself isolated and without a body. Your consciousness is trapped inside of a cold, decrepit satellite's computer orbitting a planet covered in craters and thick fog.
+            An alien world was being terraformed by an Earth-owned satellite, but the project was
+            disrupted by a freak, celestial event. You awaken to find yourself isolated and without
+            a body. Your consciousness is trapped inside of a cold, decrepit satellite's computer
+            orbitting a planet covered in craters and thick fog.
             <br />
             <br />
-            After eons, by focusing all remaining terraforming efforts onto a single crater, fledgling life has managed to take hold within a barely liveable ecosystem. A queen ant has dug a nest in the crater and is hunkered down in an attempt to survive.
-            Progress is slow. Worker ants attempt to explore the crater and map pathways to food, but massive fog waves spill over the crater's walls and wash away the ant's pheromones each day. The ants, lacking foresight and guidance, fail to continually grow and expand on their own.
+            After eons, by focusing all remaining terraforming efforts onto a single crater,
+            fledgling life has managed to take hold within a barely liveable ecosystem. A queen ant
+            has dug a nest in the crater and is hunkered down in an attempt to survive. Progress is
+            slow. Worker ants attempt to explore the crater and map pathways to food, but massive
+            fog waves spill over the crater's walls and wash away the ant's pheromones each day. The
+            ants, lacking foresight and guidance, fail to continually grow and expand on their own.
             <br />
             <br />
-            Under constant exposure to the terraforming satellite's radio waves, the ants begin to adapt in an attempt to interpret the electromagnetic signals.
-            A massive, rectifying crystal juts out of the ground near the ant's nest. As the satellite passes overhead each day its signal strength grows and resonates within the crystal. Conversely, the pulse fades as the satellite disappears over the horizon.
-            The ants touch the crystal and treat this environmental input as they would any other by attempting to interpret and utilize the information. Each day, the ants form a long chain, the queen touches the crystal, and a weak electrical signal passes through the colony. The ants all jump as electricity shoots through them and they attempt to infer meaning from the energy.
+            Under constant exposure to the terraforming satellite's radio waves, the ants begin to
+            adapt in an attempt to interpret the electromagnetic signals. A massive, rectifying
+            crystal juts out of the ground near the ant's nest. As the satellite passes overhead
+            each day its signal strength grows and resonates within the crystal. Conversely, the
+            pulse fades as the satellite disappears over the horizon. The ants touch the crystal and
+            treat this environmental input as they would any other by attempting to interpret and
+            utilize the information. Each day, the ants form a long chain, the queen touches the
+            crystal, and a weak electrical signal passes through the colony. The ants all jump as
+            electricity shoots through them and they attempt to infer meaning from the energy.
             <br />
             <br />
-            You, a desperate biologist, lacking both purpose and companionship, take it upon yourself to find a way to nurture the ant colony. You're in rough shape. You have ambitions far greater than your energy levels, no clear way of interacting with the world, and quickly find yourself becoming your own worst enemy.
+            You, a desperate biologist, lacking both purpose and companionship, take it upon
+            yourself to find a way to nurture the ant colony. You're in rough shape. You have
+            ambitions far greater than your energy levels, no clear way of interacting with the
+            world, and quickly find yourself becoming your own worst enemy.
             <br />
             <br />
-            Embark on a journey of personal growth and self-discovery. Prove you can care for those most important to you by caring for yourself, too.
+            Embark on a journey of personal growth and self-discovery. Prove you can care for those
+            most important to you by caring for yourself, too.
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
